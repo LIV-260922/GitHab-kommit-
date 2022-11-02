@@ -14,9 +14,7 @@ namespace ConsoleApplication1
             // Ввести n чисел. Значение n вводится с консоли.
             // Определить наибольшее из введенных чисел.
             Console.WriteLine("Введите количество чисел");
-            int number2 = Convert.ToInt32(Console.ReadLine());
-            int i = 1;
-            int temp = 0;
+         
             Console.WriteLine("Введите целые числа:");
             do
             {
